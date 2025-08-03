@@ -6,7 +6,7 @@ Welcome to my personal portfolio website — a modern, responsive, and animated 
 
 ## 🌐 Live Site
 
-🔗 [Visit the Website](https://ritvik78.github.io/rithik-portfolio)
+🔗 [Visit the Website](https://ritvik78.github.io/portfolio-new/)
 
 > 
 
